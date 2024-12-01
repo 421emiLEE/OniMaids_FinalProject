@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.onimaids_finalproject"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.onimaids_finalproject"
